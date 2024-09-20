@@ -1,4 +1,3 @@
-
 ```markdown
 # Users API
 
@@ -22,11 +21,7 @@ Esta es una API para gestionar usuarios, construida con NestJS y TypeORM.
    {
      "type": "mysql",
      "host": "localhost",
-
-
-    
-
- "port": 3306,
+     "port": 3306,
      "username": "root",
      "password": "password",
      "database": "test",
